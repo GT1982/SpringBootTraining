@@ -1,0 +1,6 @@
+app:
+  rabbitmq:
+    gt:
+      queue-name: sp_gt_queue
+      exchange-name: sp_gt_topic_exchange
+      routing-key-name: sp_gt_routing_key
